@@ -1,0 +1,23 @@
+text.color : white
+
+axes.facecolor: (0.3,0.3,0.3)
+axes.edgecolor : white 
+axes.labelcolor : white
+axes.linewidth : 1
+axes.spines.top : False
+axes.spines.right : False
+axes.spines.bottom : True
+axes.spines.left : True
+
+axes.grid : True
+grid.linestyle : --
+grid.alpha : 0.3
+grid.color: white
+
+xtick.color : white
+ytick.color : white
+
+figure.figsize  : 12, 6
+figure.facecolor: (0.3,0.3,0.3)
+figure.dpi : 150
+savefig.dpi : 200
